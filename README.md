@@ -1,1 +1,1 @@
-applications details
+Github Action With CICD Pipeline
